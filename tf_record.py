@@ -3,8 +3,7 @@ from PIL import Image
 import scipy.io as sio
 import numpy as np
 
-#img_dir = './data/flickr/images/'
-img_dir = '../flickr-25k/im256/'
+img_dir = './data/flickr/images/'
 label_dir = './data/flickr/trainlabel.mat'
 image_size = 227
 
