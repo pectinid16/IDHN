@@ -18,5 +18,8 @@ Download from [here](ww.cs.toronto.edu/~guerzhoy/tf_alexnet/bvlc_alexnet.npy) an
 - Train:  
 Run `sh train-flickr.sh`, and the trained model will be saved in `models/IDHN-48b/`.
 
+- Test:  
+Run `sh test-flickr.sh`, and generated hash codes will be saved in `./results/IDHN_48b_test_flickr.txt`.
+
 ### Acknowledgement
 - [Tensorflow Implementation of AlexNet](https://kratzert.github.io/2017/02/24/finetuning-alexnet-with-tensorflow.html) 
