@@ -22,11 +22,11 @@ Run `sh train-flickr.sh`, and the trained model will be saved in `models/IDHN-48
 Run `sh test-flickr.sh`, and generated hash codes will be saved in `./results/IDHN_48b_test_flickr.txt`.
 
 ### Citation
-'''
+```
 @article{zhang2019tmm,
    author = {Zhang, Zheng and Zou, Qin and Lin, Yuewei and Chen, Long and Wang, Song},
    title = "{Improved deep hashing with soft pairwise similarity for multi-label image retrieval}",
    journal = {IEEE Transactions on Multimedia},
    year = 2019
 }
-'''
+```
