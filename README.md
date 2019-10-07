@@ -1,4 +1,5 @@
 # IDHN
+This is a TensorFlow implementation of "Improved Deep Hashing with Soft Pairwise Similarity for Multi-label Image Retrieval".
 
 ### Requirements
 - [Linux](https://www.ubuntu.com/download)
@@ -22,6 +23,7 @@ Run `sh train-flickr.sh`, and the trained model will be saved in `models/IDHN-48
 Run `sh test-flickr.sh`, and generated hash codes will be saved in `./results/IDHN_48b_test_flickr.txt`.
 
 ### Citation
+Please cite our paper if you use this code in your own work:
 ```
 @article{zhang2019tmm,
    author = {Zhang, Zheng and Zou, Qin and Lin, Yuewei and Chen, Long and Wang, Song},
