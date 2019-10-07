@@ -27,6 +27,6 @@ Run `sh test-flickr.sh`, and generated hash codes will be saved in `./results/ID
    author = {Zhang, Zheng and Zou, Qin and Lin, Yuewei and Chen, Long and Wang, Song},
    title = {Improved deep hashing with soft pairwise similarity for multi-label image retrieval},
    journal = {IEEE Transactions on Multimedia},
-   year = 2019
+   year = {2019}
 }
 ```
