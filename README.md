@@ -21,5 +21,12 @@ Run `sh train-flickr.sh`, and the trained model will be saved in `models/IDHN-48
 - Test:  
 Run `sh test-flickr.sh`, and generated hash codes will be saved in `./results/IDHN_48b_test_flickr.txt`.
 
-### Acknowledgement
-- [Tensorflow Implementation of AlexNet](https://kratzert.github.io/2017/02/24/finetuning-alexnet-with-tensorflow.html) 
+### Citation
+'''
+@article{zhang2019tmm,
+   author = {Zhang, Zheng and Zou, Qin and Lin, Yuewei and Chen, Long and Wang, Song},
+   title = "{Improved deep hashing with soft pairwise similarity for multi-label image retrieval}",
+   journal = {IEEE Transactions on Multimedia},
+   year = 2019
+}
+'''
